@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "adamimurimuthen00hoggoog_0005.png"; bbox 0 0 3164 5054; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 515 2067 949 2156">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 515 2067 949 2156">
+     <span class='ocr_line' id='line_1_1' title="bbox 515 2067 949 2156; baseline -0.009 -5"><span class='ocrx_word' id='word_1_1' title='bbox 515 2067 949 2156; x_wconf 86' lang='lat' dir='ltr'>CHRONICQUE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 385 2317 1070 2412">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 385 2317 1070 2412">
+     <span class='ocr_line' id='line_1_2' title="bbox 385 2317 1070 2412; baseline -0.003 -5"><span class='ocrx_word' id='word_1_2' title='bbox 385 2337 455 2408; x_wconf 78' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 483 2338 553 2410; x_wconf 76' lang='lat' dir='ltr'>LA</span> <span class='ocrx_word' id='word_1_4' title='bbox 578 2317 808 2412; x_wconf 70' lang='lat' dir='ltr'><strong>TRA&#39;I‘soN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 836 2337 898 2409; x_wconf 73' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 925 2334 1070 2407; x_wconf 75' lang='lat' dir='ltr'>MORT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 246 2708 1211 2787">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 246 2708 1211 2787">
+     <span class='ocr_line' id='line_1_3' title="bbox 246 2708 1211 2787; baseline 0.005 -9"><span class='ocrx_word' id='word_1_7' title='bbox 246 2708 476 2782; x_wconf 77' lang='lat' dir='ltr'><strong>RIGHAR&#39;I&#39;</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 502 2712 652 2786; x_wconf 84' lang='lat' dir='ltr'>DEUX</span> <span class='ocrx_word' id='word_1_9' title='bbox 679 2715 786 2787; x_wconf 89' lang='lat' dir='ltr'>ROY</span> <span class='ocrx_word' id='word_1_10' title='bbox 814 2712 1211 2786; x_wconf 85' lang='lat' dir='ltr'><strong>DENGLETERRE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1586 5054">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1586 5054">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1586 5054; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1586 5054; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
